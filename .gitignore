@@ -1,0 +1,13 @@
+# Python-y remnants
+*.swp
+*.pyc
+
+# Log files
+*.log
+
+# Heavy geopsatial stuff
+*.geojson
+
+# Ignore local folders
+local/*
+data_raw/*
