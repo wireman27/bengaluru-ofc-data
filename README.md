@@ -1,5 +1,9 @@
 # Bengaluru Optical Fibre Cables Data
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wireman27/bengaluru-ofc-data/main/company_spread.gif" />
+</p>
+
 ## Data
 
 When an entity wants to run optical-fibre cables under roads in Bengaluru it needs to make an application to the Bruhat Bengaluru Mahanara Palike (BBMP) and get the necessary permissions. The BBMP makes data about such applications accessible on the [Citizen View section of its website](https://site.bbmp.gov.in/Citizenview.html).
